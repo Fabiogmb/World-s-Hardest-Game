@@ -18,7 +18,7 @@ function setup() {
   wall12=createSprite (361,190,3,40);
 
   ding=createSprite (40,190.13,13)
-  ding.shape= "green";
+  ding.shapeColor= "green";
 
   dong1=createSprite(100,130,10,10);
    dong1.shapeColor="red"
